@@ -1,6 +1,6 @@
 {
   "name": "bem-i18n",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "i18n core for bem",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bem/bem-i18n.git"
+    "url": "git+https://github.com/Yeti-or/bem-i18n.git"
   },
   "keywords": [
     "bem",
@@ -17,7 +17,7 @@
   "author": "Vasiliy Loginevskiy <yeti.or@gmail.com>",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/bem/bem-i18n/issues"
+    "url": "https://github.com/Yeti-or/bem-i18n/issues"
   },
-  "homepage": "https://github.com/bem/bem-i18n#readme"
+  "homepage": "https://github.com/Yeti-or/bem-i18n#readme"
 }

@@ -1,6 +1,6 @@
 {
   "name": "bem-i18n",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "i18n core for bem",
   "main": "index.js",
   "scripts": {

@@ -1,9 +1,11 @@
 {
   "name": "bem-i18n",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "i18n core for bem",
   "main": "core.js",
-  "files": [ "core.js" ],
+  "files": [
+    "core.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

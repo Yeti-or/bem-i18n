@@ -9,6 +9,9 @@ module.exports =  function() {
      * @returns {String}
      */
     function i18n(keyset, key, params) {
+        if(arguments.length === 1)
+            return function(k, p) { return i18n(keyset, k, p); };
+
         if(!data) throw Error('i18n need to be filled with data');
         var val = data[keyset] && data[keyset][key];
         return typeof val === 'undefined'?
